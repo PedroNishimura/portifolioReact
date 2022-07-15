@@ -1,0 +1,9 @@
+.projeto-card {
+    max-width: 150px;
+    margin: 15px auto;
+    overflow: auto;
+    min-height: 75px;
+    border: 2px rgb(15, 68, 214);
+    padding: 15px;
+    border-radius: 5px;
+}

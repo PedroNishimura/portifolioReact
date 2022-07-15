@@ -1,0 +1,15 @@
+li {
+    display: inline;
+    font-size: 1.4em;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    padding: 0.4em 2em;
+}
+
+a:hover {
+    cursor: pointer;
+    color: #ffffff;
+    border-bottom:3px solid #fd0c5c;
+}
